@@ -1,0 +1,12 @@
+git clone https://github.com/oath223/note.git
+git remote set-url origin https://oath223@github.com/oath223/note.git
+
+
+git pull
+git add jiezhNote.ctx 
+git commit -m 'note'
+git push origin master
+
+
+git进入windows目录时
+目录c:\test 要写成/c/test,否则无法识别
