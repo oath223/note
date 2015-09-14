@@ -1,0 +1,1050 @@
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Usage: 7za <command> [<switches>...] <archive_name> [<file_names>...]
+       [<@listfiles...>]
+
+<Commands>
+  a: Add files to archive
+  b: Benchmark
+  d: Delete files from archive
+  e: Extract files from archive (without using directory names)
+  l: List contents of archive
+  t: Test integrity of archive
+  u: Update files to archive
+  x: eXtract files with full paths
+<Switches>
+  -ai[r[-|0]]{@listfile|!wildcard}: Include archives
+  -ax[r[-|0]]{@listfile|!wildcard}: eXclude archives
+  -bd: Disable percentage indicator
+  -i[r[-|0]]{@listfile|!wildcard}: Include filenames
+  -m{Parameters}: set compression Method
+  -o{Directory}: set Output directory
+  -p{Password}: set Password
+  -r[-|0]: Recurse subdirectories
+  -scs{UTF-8 | WIN | DOS}: set charset for list files
+  -sfx[{name}]: Create SFX archive
+  -si[{name}]: read data from stdin
+  -slt: show technical information for l (List) command
+  -so: write data to stdout
+  -ssc[-]: set sensitive case mode
+  -t{Type}: Set type of archive
+  -u[-][p#][q#][r#][x#][y#][z#][!newArchiveName]: Update options
+  -v{Size}[b|k|m|g]: Create volumes
+  -w[{path}]: assign Work directory. Empty path means a temporary directory
+  -x[r[-|0]]]{@listfile|!wildcard}: eXclude filenames
+  -y: assume Yes on all queries
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Processing archive: /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Extracting  jiezhNote.ctb
+
+Everything is Ok
+
+Size:       1795072
+Compressed: 1589411
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+sel node id=45, seq=1
+sel node id=9, seq=19
+sel node id=116, seq=11
+sel node id=66, seq=10
+sel node id=65, seq=9
+sel node id=49, seq=8
+sel node id=76, seq=6
+sel node id=65, seq=9
+sel node id=197, seq=2
+sel node id=203, seq=2
+sel node id=204, seq=2
+pending_edit_db_node_buff 204
+write node content, node_id 204 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 204
+write node content, node_id 204 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 204
+write node content, node_id 204 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+no changes
+sel node id=203, seq=2
+pending_new_db_node 205
+pending_edit_db_node_hier 205
+sel node id=205, seq=3
+sel node id=202, seq=1
+sel node id=203, seq=2
+sel node id=205, seq=3
+pending_edit_db_node_buff 205
+pending_edit_db_node_buff 205
+write node content, node_id 205 , write_dict {'upd': False, 'buff': True, 'hier': True, 'child': False, 'prop': True}
+pending_edit_db_node_buff 205
+pending_edit_db_node_buff 205
+write node content, node_id 205 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 205
+pending_edit_db_node_buff 205
+write node content, node_id 205 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 205
+pending_edit_db_node_buff 205
+write node content, node_id 205 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 205
+pending_edit_db_node_buff 205
+write node content, node_id 205 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 205
+pending_edit_db_node_buff 205
+write node content, node_id 205 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 205
+pending_edit_db_node_buff 205
+write node content, node_id 205 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 205
+pending_edit_db_node_buff 205
+write node content, node_id 205 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 205
+pending_edit_db_node_buff 205
+write node content, node_id 205 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 205
+pending_edit_db_node_buff 205
+write node content, node_id 205 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 205
+pending_edit_db_node_buff 205
+write node content, node_id 205 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 205
+pending_edit_db_node_buff 205
+write node content, node_id 205 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 205
+pending_edit_db_node_buff 205
+write node content, node_id 205 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 205
+pending_edit_db_node_buff 205
+write node content, node_id 205 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 205
+pending_edit_db_node_buff 205
+write node content, node_id 205 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 205
+pending_edit_db_node_buff 205
+write node content, node_id 205 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 205
+pending_edit_db_node_buff 205
+write node content, node_id 205 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 205
+pending_edit_db_node_buff 205
+write node content, node_id 205 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok
+pending_edit_db_node_buff 205
+pending_edit_db_node_buff 205
+write node content, node_id 205 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 205
+pending_edit_db_node_buff 205
+write node content, node_id 205 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 205
+pending_edit_db_node_buff 205
+write node content, node_id 205 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 205
+pending_edit_db_node_buff 205
+write node content, node_id 205 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 205
+pending_edit_db_node_buff 205
+write node content, node_id 205 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 205
+pending_edit_db_node_buff 205
+write node content, node_id 205 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+no changes
+no changes
+pending_edit_db_node_buff 205
+pending_edit_db_node_buff 205
+write node content, node_id 205 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 205
+pending_edit_db_node_buff 205
+write node content, node_id 205 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 205
+pending_edit_db_node_buff 205
+write node content, node_id 205 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 205
+pending_edit_db_node_buff 205
+write node content, node_id 205 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_new_db_node 206
+pending_edit_db_node_hier 206
+sel node id=206, seq=1
+pending_edit_db_node_hier 206
+pending_edit_db_node_buff 206
+write node content, node_id 206 , write_dict {'upd': False, 'buff': True, 'hier': True, 'child': False, 'prop': True}
+pending_edit_db_node_buff 206
+write node content, node_id 206 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 206
+write node content, node_id 206 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 206
+write node content, node_id 206 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 206
+write node content, node_id 206 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 206
+write node content, node_id 206 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 206
+write node content, node_id 206 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 206
+write node content, node_id 206 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 206
+write node content, node_id 206 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 206
+write node content, node_id 206 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 206
+write node content, node_id 206 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 206
+write node content, node_id 206 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+no changes
+sel node id=202, seq=1
+pending_edit_db_node_buff 202
+pending_edit_db_node_buff 202
+write node content, node_id 202 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False}
+pending_edit_db_node_buff 202
+pending_edit_db_node_buff 202
+write node content, node_id 202 , write_dict {'upd': True, 'buff': True, 'hier': False, 'child': False, 'prop': False
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+
+Everything is Ok
+
+7-Zip (A) [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,4 CPUs)
+
+Scanning
+
+Updating archive /media/win7/Users/John/Desktop/git/note/jiezhNote.ctx
+
+Compressing  jiezhNote.ctb
+
+Everything is Ok

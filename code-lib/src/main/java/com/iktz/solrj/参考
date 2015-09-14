@@ -1,0 +1,6 @@
+添加和删除
+http://www.tuicool.com/articles/uAzQnaz
+查询
+http://blog.csdn.net/jediael_lu/article/details/38229323//
+
+curl 'http://localhost:8080/solr/update/?stream.body=<delete><query>*:*</query></delete>&stream.contentType=text/xml;charset=utf-8&commit=true'
