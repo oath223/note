@@ -1,0 +1,240 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>IT Home| IT之家| Oracle|Java</title>
+<style type="text/css">
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, li, fieldset, form, label, legend {
+     margin: 0px; 
+     padding: 0px; 
+     border: 0px; 
+     outline: 0px; 
+     font-size: inherit; 
+     vertical-align: baseline; 
+}
+#Container{
+    width:1000px;
+    margin:0 auto;/*设置整个容器在浏览器中水平居中*/
+    /*background:#CF3; 背景色*/ 
+}
+#Header{
+	width:100%;
+    height:80px;
+    /*background:#093;*/
+	background-color:#595C64;
+	background: -webkit-gradient(linear, left top, left bottom, from(#595C64), to(#1B1B1C));
+}
+#logo{
+    padding-left:50px;
+    padding-top:20px;
+    padding-bottom:50px;
+}
+#Content{
+    height:20px;
+    /*此处对容器设置了高度，一般不建议对容器设置高度，一般使用overflow:auto;属性设置容器根据内容自适应高度，如果不指定高度或不设置自适应高度，容器将默认为1个字符高度，容器下方的布局元素（footer）设置margin-top:属性将无效*/
+    margin-top:20px;/*此处讲解margin的用法，设置content与上面header元素之间的距离*/
+   /* background:#0FF;*/
+     
+}
+#Content-Left{
+   /* height:400px;*/
+       min-height: 300px; 
+    width:24%;
+    margin:5px;/*设置元素跟其他元素的距离为20像素*/
+    float:left;/*设置浮动，实现多列效果，div+Css布局中很重要的*/
+   /* background:#90C;*/
+	    background-color: #C1C1C1 !important;
+}
+#Content-Main{
+  /*  height:400px;*/
+    min-height: 300px; 
+    width:73%;
+	border:1px solid #F60;;
+    margin:5px;/*设置元素跟其他元素的距离为20像素*/
+    float:left;/*设置浮动，实现多列效果，div+Css布局中很重要的*/
+    /*background:#90C;*/
+	/*    background-color: #C1C1C1 !important;*/
+}
+/*注：Content-Left和Content-Main元素是Content元素的子元素，两个元素使用了float:left;设置成两列，这个两个元素的宽度和这个两个元素设置的padding、margin的和一定不能大于父层Content元素的宽度，否则设置列将失败*/
+#Footer{
+    height:40px;
+    background:#C1C1C1;
+    margin-top:20px;
+}
+.Clear{
+    clear:both;
+}
+
+.chuti, b {
+    font-weight: bold;
+	color: #4ab2dc;
+	line-height: 40px;
+	font-size: inherit;
+	vertical-align: baseline;
+	font-size: 1.35em;
+	font-family: Arial, sans-serif;
+}
+.blog_title {
+    padding-bottom: 10px;
+}
+.blog_tit_cont{
+    font-size: 26px;
+	    font-family: 'Helvetica Neue','Helvetica Neue',Helvetica,'Hiragino Sans GB','Microsoft Yahei',tahoma;
+}
+.blog_title .blog_tit_cont span {
+    margin-right: 5px;
+}
+.blog_title .blog_tit_cont .ziti {
+    font-size: 26px;
+    margin-right: 20px;
+    position: relative;
+    font-family: 'Helvetica Neue','Helvetica Neue',Helvetica,'Hiragino Sans GB','Microsoft Yahei',tahoma;
+}
+.blog_title .blog_tit_cont span {
+    margin-right: 5px;
+}
+div {
+    display: block;
+}
+body, input, textarea, select, button {
+    font-family: punctuation,\5FAE\8F6F\96C5\9ED1,Tohoma;
+}
+.outf .Content {
+    padding: 10px;
+}
+html {
+    font-size: 62.5%;
+    font-family: Tahoma;
+}
+.operate_toolbar .mod_interactive {
+    float: left;
+    padding: 5px 0;
+    min-height: 30px;
+    _height: 30px;
+}
+
+.operate_toolbar .mod_links {
+    float: right;
+    margin-top: 6px;
+}
+ul, menu, dir {
+    display: block;
+    list-style-type: disc;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
+
+#upperInteractive li{float:left;} 
+
+</style>
+</head>
+ 
+<body style="background:#D9D9D9">
+<div id="Container">
+
+
+
+
+<!--style="position:fixed; top:0; left: 0;width: 100%; "-->
+    <div id="Header" >
+        <div id="logo"><strong class="chuti">IT之家</strong></div>
+    </div>
+		<div id="outf">
+		<div class="blog_title">
+							<div id="title" class="blog_tit_cont clearfix">
+								<strong class="ziti" >
+									
+										<span>
+											
+											<span class="blog_tit_detail" tabindex="1">
+												
+												
+												基于 BigInsights、Nutch、Solr 等技术框架构建可定制、一体化的数据抓取搜索平台
+											</span>
+										</span>
+									
+									
+								</strong>
+								<span class="tit_other_info" style="display:inline;">
+									<span id="pubTime" class="c_tx3">2015-9-20 22:06</span>
+									<span id="readNum" class="c_tx3">阅读(0)</span>
+									<span id="quoteInfo" class="c_tx3" style="display: none;"> </span>
+								</span>
+							</div>
+							
+							
+							<div class="operate_toolbar" style="display: block;">
+								<div class="mod_interactive">
+								<ul id="upperInteractive">
+									<li id="upperLike" class="adjust_praise" __ugclikebtnid="101">
+									<span style="overflow: hidden; zoom: 1; margin: 0px; display: block;">
+										<a class="c_tx rbor3" href="javascript:void(0)" onclick="return false;" style="display: none;">
+										<b><i class="icon icon_praise">
+										</i></b>
+										<span class="adjust">赞<!--(0)--></span></a>
+										<a class="c_tx rbor3" href="javascript:void(0)" onclick="return false;" style="display: inline-block;"><b>
+										<i class="icon icon_praise"></i></b><span class="adjust">赞<!--(0)--></span>
+										</a>
+										<a class="c_tx rbor3" href="javascript:void(0)" onclick="return false;" style="display: none;">
+										<b><i class="icon icon_praised"></i></b><span class="adjust">赞<!--(0)--></span>
+										</a>
+										<a class="c_tx rbor3" href="javascript:void(0)" onclick="return false;" style="display: none;">
+										<b><i class="icon icon_cancel"></i></b><span class="adjust">赞<!--(0)--></span>
+										</a>
+									</span>
+									
+									</li>
+									
+									<li id="upperReplyInfoArea">
+									<a id="upperReplyInfoAreaBtn" href="javascript:void(0)" onclick="return false;" class="c_tx rbor3">
+									<span class="icon icon_comment"></span><span class="adjust">评论</span>
+									</a>
+									</li>
+									<li id="upperQuoteInfoArea"><a id="upperQuoteInfoAreaBtn" href="javascript:void(0)" onclick="return false;" class="c_tx rbor3">
+									<span class="icon icon_reprint"></span><span class="adjust">转载</span>
+									</a>
+									</li>
+									<li id="upperShareInfoArea">
+									<a id="upperShareInfoAreaBtn" href="javascript:void(0)" onclick="return false;" class="c_tx rbor3 drop_list">
+									<span class="icon icon_share"></span><span class="adjust">分享</span><span class="mod_arr">
+									</span></a>
+									</li><li id="upperCopyInfoArea"><span style="position: absolute; display: block; cursor: pointer; width: 90px; height: 23px; background: url(http://cn.qzs.qq.com/ac/b.gif);"><object data="http://cn.qzs.qq.com/qzone/newblog/v5/flash/flashCopy.swf" width="90px" height="23px" id="URLCopyBtn" type="application/x-shockwave-flash" style="position: absolute; display: block; cursor: pointer; width: 90px; height: 23px;"><param name="allowScriptAccess" value="always"><param name="wmode" value="transparent"><param name="copyURL" value="flashcopyBtn"></object></span><a id="upperCopyInfoAreaBtn" href="javascript:void(0)" onclick="return false;" class="c_tx rbor3"><span class="icon icon_copy"></span><span class="adjust">复制地址</span></a></li><li id="upperModifyInfoArea"><a id="upperModifyInfoAreaBtn" href="javascript:void(0)" onclick="return false;" class="c_tx drop_list"><span class="icon icon_edit"></span><span class="adjust">编辑</span><span class="mod_arr"></span></a></li>
+								</ul>
+								</div>
+								<div class="mod_links">
+									<span><a id="navigatorSpan3" rel="prevBlog" href="javascript:;" class="c_tx c_tx3" title="已经是第一篇">已经是第一篇</a></span> | <span><a id="navigatorSpan1" rel="nextBlog" href="javascript:;" class="c_tx c_tx3" title="已经是最后一篇">已经是最后一篇</a></span>
+								</div>
+							</div>
+
+
+    <div id="Content">
+						</div>
+						
+						
+
+
+	
+	
+        <div id="Content-Left">左侧列表部分</div>
+		
+		<!-- 文章内容-->
+		
+        <div id="Content-Main" style="min-height: 300px; ">
+
+		你好
+	
+		
+	
+		
+		
+		</div>
+    </div>
+    <div class="Clear"><!--如何你上面用到float,下面布局开始前最好清除一下。--></div>
+    <div id="Footer">Footer</div>
+</div>
+</div>
+</body>
+</html>
